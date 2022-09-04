@@ -34,7 +34,7 @@ function initiateModels() {
         dialogue: "When fisheries catch fish at a rate faster than the fish can be replenished, they lead to a decline in the ocean wildlife population. Overfishing also is a danger to populations of people who rely on fish as a source of protein."
       },
       {
-        name: 'rain',
+        name: 'cloud',
         dialogue: "Floods can result in destruction of habitats, erosion of the natural landscape, and the spread of contaminants and potential waterborne diseases like cholera and hepatitis A."
       },
       {
